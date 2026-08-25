@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'accounts',
     'polls',
     'notes',
+    'shop',
 ]
 
 MIDDLEWARE = [
